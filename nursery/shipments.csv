@@ -1,0 +1,11 @@
+shipment_id,site,species,arrival_date,health,revision
+NS-101,North Yard,Acer platanoides,2096-04-03,healthy,1
+NS-102,South Yard,Ulmus americana,2096-03-29,stressed,1
+NS-103,East Yard,Fraxinus pennsylvanica,2096-03-31,invasive,1
+NS-104,North Yard,Quercus rubra,2096-04-01,healthy,1
+NS-102,South Yard,Ulmus americana,2096-03-29,healthy,2
+NS-105,West Yard,Acer platanoides,2096-04-02,healthy,1
+NS-106,East Yard,Betula papyrifera,2096-03-28,stressed,1
+NS-107,West Yard,Acer platanoides,2096-04-04,healthy,1
+bad,Ignore,Acer platanoides,2096-02-30,healthy,3
+NS-103,East Yard,Fraxinus pennsylvanica,2096-03-31,invasive,01
