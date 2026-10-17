@@ -1,0 +1,4 @@
+rank,shipment_id,site,species,arrival_date,action,reason,latest_inspection_utc
+1,NS-103,East Yard,Fraxinus pennsylvanica,2096-03-31,BLOCK,invasive health classification,none
+2,NS-106,East Yard,Betula papyrifera,2096-03-28,REVIEW,stressed and latest inspection is not cleared,2096-04-06T10:00:00Z
+3,NS-101,North Yard,Acer platanoides,2096-04-03,SCREEN,restricted species without inspection,none
